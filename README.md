@@ -21,7 +21,7 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 
 ### 🛠️ Skills & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;
@@ -42,7 +42,7 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Art Coding Setup Banner" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Art Workstation Banner" width="100%"/>
 </p>
 
 ---
@@ -53,18 +53,11 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
   <img src="https://komarev.com/ghpvc/?username=bhumikajain54&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumikajain54&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" alt="Bhumika's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikajain54&theme=rose_pine&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Stars-88+-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Total_Forks-31+-ff1493?style=for-the-badge&logo=github&logoColor=white" alt="Total Forks" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Repositories-24+-e91e63?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</p>
 
 ---
 
@@ -92,31 +85,48 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 
 ### ⭐ Popular Repositories
 
-<div align="center">
-  <a href="https://github.com/bhumikajain54/EmployeeManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=EmployeeManagementSystem&theme=rose_pine" alt="EmployeeManagementSystem" />
-  </a>
-  <a href="https://github.com/bhumikajain54/sanitaryware">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=sanitaryware&theme=rose_pine" alt="sanitaryware" />
-  </a>
-  <br/>
-  <a href="https://github.com/bhumikajain54/JobSahi-Admin-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=JobSahi-Admin-Dashboard&theme=rose_pine" alt="JobSahi-Admin-Dashboard" />
-  </a>
-  <a href="https://github.com/bhumikajain54/MIS-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=MIS-Project&theme=rose_pine" alt="MIS-Project" />
-  </a>
-  <br/>
-  <a href="https://github.com/bhumikajain54/Bhumika-Jain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Bhumika-Jain&theme=rose_pine" alt="Bhumika-Jain" />
-  </a>
-  <a href="https://github.com/bhumikajain54/Brightorial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Brightorial&theme=rose_pine" alt="Brightorial" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">📦 <a href="https://github.com/bhumikajain54/EmployeeManagementSystem">Employee Management System</a></h4>
+      <p align="left"><i>Manage employees, attendance, roles, and leave requests efficiently.</i></p>
+      <p align="left">🟢 <b>Java / Spring Boot / Angular</b> &nbsp;⭐ 18 &nbsp;🍴 6</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">📦 <a href="https://github.com/bhumikajain54/sanitaryware">Sanitaryware Shop</a></h4>
+      <p align="left"><i>E-commerce platform for sanitaryware products with secure checkout.</i></p>
+      <p align="left">🟢 <b>Spring Boot / React / MySQL</b> &nbsp;⭐ 31 &nbsp;🍴 12</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">📦 <a href="https://github.com/bhumikajain54/JobSahi-Admin-Dashboard">JobSahi Admin Dashboard</a></h4>
+      <p align="left"><i>Admin dashboard for job portal with candidate tracking and analytics.</i></p>
+      <p align="left">🟡 <b>React.js / Tailwind CSS / PHP</b> &nbsp;⭐ 15 &nbsp;🍴 5</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">📦 <a href="https://github.com/bhumikajain54/MIS-Project">Insurance MIS Project</a></h4>
+      <p align="left"><i>Management Information System for policy tracking & invoicing.</i></p>
+      <p align="left">🟤 <b>Java / Spring Boot / React</b> &nbsp;⭐ 10 &nbsp;🍴 3</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">📦 <a href="https://github.com/bhumikajain54/Bhumika-Jain">Developer Portfolio Website</a></h4>
+      <p align="left"><i>Modern dark-themed developer portfolio built with React & Tailwind CSS.</i></p>
+      <p align="left">🟡 <b>JavaScript / React</b> &nbsp;⭐ 25 &nbsp;🍴 8</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">📦 <a href="https://github.com/bhumikajain54/Brightorial">Brightorial Web App</a></h4>
+      <p align="left"><i>Educational platform for learning and interactive tutorials.</i></p>
+      <p align="left">🟡 <b>JavaScript / Node.js</b> &nbsp;⭐ 11 &nbsp;🍴 4</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
+<br/>
 <p align="center">
   <i>"Code. Build. Impact." 💜</i>
 </p>
