@@ -41,7 +41,7 @@ Currently focused on **Java, Spring Boot, React.js**, and building impactful pro
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhumikajain54&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
@@ -102,13 +102,9 @@ Currently focused on **Java, Spring Boot, React.js**, and building impactful pro
 
 ---
 
-### 🔥 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&theme=rose-pine&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer&text=Code%20.%20Build%20.%20Impact%20✨&fontSize=22&fontColor=ffffff" alt="Footer Banner" width="100%" />
 </p>
-
----
 
 ### 🤝 Let's Connect
 
