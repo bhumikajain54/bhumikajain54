@@ -33,7 +33,6 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
-
 <br/>
 
 <p align="center">
@@ -46,26 +45,74 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center" valign="top">
-      <p>🌸 <b>Total Stars</b></p>
-      <h2>⭐ 88+</h2>
+    <!-- LEFT: Stats Table -->
+    <td width="50%" valign="middle">
+      <h3>🌸 <font color="#ff69b4">Bhumika Jain</font></h3>
+      <br/>
+      <p>⭐ &nbsp;<font color="#f89820"><b>78+</b></font> &nbsp; Contributions this year</p>
+      <p>📂 &nbsp;<font color="#f7df1e"><b>24</b></font> &nbsp; Public Repositories</p>
+      <p>👥 &nbsp;<font color="#e34c26"><b>29</b></font> &nbsp; Followers</p>
+      <p>🚀 &nbsp;<font color="#9b59b6"><b>18+</b></font> &nbsp; Projects Completed</p>
+      <p>🌐 &nbsp;<font color="#1abc9c"><b>8+</b></font> &nbsp; Live Deployments</p>
     </td>
-    <td width="25%" align="center" valign="top">
-      <p>🍴 <b>Total Forks</b></p>
-      <h2>🍴 31+</h2>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <p>📦 <b>Repositories</b></p>
-      <h2>📦 25+</h2>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <p>👁️ <b>Profile Views</b></p>
-      <h2><img src="https://komarev.com/ghpvc/?username=bhumikajain54&color=ff69b4&style=flat-square&label=" alt="Profile Views" /></h2>
+    <!-- RIGHT: SVG Donut Chart (Top Languages from real repos) -->
+    <td width="50%" valign="middle" align="center">
+      <svg width="280" height="210" viewBox="0 0 280 210" xmlns="http://www.w3.org/2000/svg">
+        <rect width="280" height="210" rx="14" fill="#0d1117"/>
+        <text x="140" y="24" text-anchor="middle" fill="#ff69b4" font-size="13" font-weight="bold" font-family="monospace">Top Languages</text>
+
+        <!-- Donut: cx=78, cy=115, r=55 | circumference=345.58 -->
+        <!-- JavaScript 52% => 179.7 -->
+        <circle cx="78" cy="115" r="55" fill="none" stroke="#f7df1e" stroke-width="24"
+          stroke-dasharray="179.7 345.58" stroke-dashoffset="0"
+          transform="rotate(-90 78 115)"/>
+        <!-- HTML 18% => 62.2 | offset=-179.7 -->
+        <circle cx="78" cy="115" r="55" fill="none" stroke="#e34c26" stroke-width="24"
+          stroke-dasharray="62.2 345.58" stroke-dashoffset="-179.7"
+          transform="rotate(-90 78 115)"/>
+        <!-- CSS 14% => 48.4 | offset=-241.9 -->
+        <circle cx="78" cy="115" r="55" fill="none" stroke="#9b59b6" stroke-width="24"
+          stroke-dasharray="48.4 345.58" stroke-dashoffset="-241.9"
+          transform="rotate(-90 78 115)"/>
+        <!-- TypeScript 10% => 34.6 | offset=-290.3 -->
+        <circle cx="78" cy="115" r="55" fill="none" stroke="#3178c6" stroke-width="24"
+          stroke-dasharray="34.6 345.58" stroke-dashoffset="-290.3"
+          transform="rotate(-90 78 115)"/>
+        <!-- Other (Java,etc) 6% => 20.7 | offset=-324.9 -->
+        <circle cx="78" cy="115" r="55" fill="none" stroke="#8b949e" stroke-width="24"
+          stroke-dasharray="20.7 345.58" stroke-dashoffset="-324.9"
+          transform="rotate(-90 78 115)"/>
+
+        <!-- Donut hole -->
+        <circle cx="78" cy="115" r="31" fill="#0d1117"/>
+        <text x="78" y="112" text-anchor="middle" fill="#ff69b4" font-size="9" font-family="monospace" font-weight="bold">Top</text>
+        <text x="78" y="123" text-anchor="middle" fill="#ff69b4" font-size="9" font-family="monospace" font-weight="bold">Lang</text>
+
+        <!-- Legend -->
+        <rect x="157" y="48"  width="11" height="11" rx="3" fill="#f7df1e"/>
+        <text x="173" y="58" fill="#e6edf3" font-size="11" font-family="monospace">JS <tspan fill="#f7df1e" font-weight="bold">52.0%</tspan></text>
+
+        <rect x="157" y="70"  width="11" height="11" rx="3" fill="#e34c26"/>
+        <text x="173" y="80" fill="#e6edf3" font-size="11" font-family="monospace">HTML <tspan fill="#e34c26" font-weight="bold">18.0%</tspan></text>
+
+        <rect x="157" y="92"  width="11" height="11" rx="3" fill="#9b59b6"/>
+        <text x="173" y="102" fill="#e6edf3" font-size="11" font-family="monospace">CSS <tspan fill="#9b59b6" font-weight="bold">14.0%</tspan></text>
+
+        <rect x="157" y="114" width="11" height="11" rx="3" fill="#3178c6"/>
+        <text x="173" y="124" fill="#e6edf3" font-size="11" font-family="monospace">TS <tspan fill="#3178c6" font-weight="bold">10.0%</tspan></text>
+
+        <rect x="157" y="136" width="11" height="11" rx="3" fill="#8b949e"/>
+        <text x="173" y="146" fill="#e6edf3" font-size="11" font-family="monospace">Other <tspan fill="#8b949e" font-weight="bold">6.0%</tspan></text>
+      </svg>
     </td>
   </tr>
 </table>
 
 <br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikajain54&theme=rose_pine&hide_border=true" alt="GitHub Streak Stats" width="95%" />
+</p>
 
 ---
 
@@ -103,11 +150,10 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/bhumikajain54/MIS-Project">📦 Insurance MIS Project</a></h4>
-      <p><i>Management Information System for insurance policy tracking & invoicing.</i></p>
+      <h4><a href="https://github.com/bhumikajain54/Sales-force-automation">📦 Sales Force Automation</a></h4>
+      <p><i>Sales pipeline automation platform with advanced analytics and reporting.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
     </td>
@@ -122,11 +168,11 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/bhumikajain54/Brightorial">📦 Brightorial Web App</a></h4>
-      <p><i>Educational platform for online learning and interactive tutorials.</i></p>
+      <h4><a href="https://github.com/bhumikajain54/MRJ-Architects">📦 MRJ Architects</a></h4>
+      <p><i>Professional architect firm website with portfolio and project showcase.</i></p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
     </td>
   </tr>
