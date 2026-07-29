@@ -39,12 +39,6 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="42" height="42"/>
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Art Workstation Setup" width="100%"/>
-</p>
-
 ---
 
 ### 📊 GitHub Overview
@@ -123,6 +117,12 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pixel Art Workstation Banner" width="100%"/>
+</p>
 
 ---
 
