@@ -1,27 +1,17 @@
-<h1 align="center">Hi there 👋 , I'm <font color="#ff69b4">Bhumika Jain</font> ✨</h1>
+<h1 align="center">Hi there! 👋 I'm <font color="#ff69b4">Bhumika Jain</font> ✏️ ✨</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2" width="100%" />
-</p>
+- 💻 **Full Stack Developer** passionate about building meaningful and scalable digital solutions.
+- 🚀 Proficient in **Java, Spring Boot, MySQL, React.js, JavaScript, HTML, CSS**, and more.
+- 🌱 Currently exploring **System Design** and **Cloud** to level up my skills.
+- 🎯 **2026 Goals:** Contribute more to Open Source & Build impactful products.
+- 📫 How to reach me: [jainbhumika54@gmail.com](mailto:jainbhumika54@gmail.com)
+- ⚡ Fun fact: I love turning ideas into real-world applications!
 
-<p align="center">
-  🎀
-</p>
+---
 
-### 👤 About Me
+### 👩‍💻 About Me
 
-I'm a **Full Stack Developer** who loves turning ideas into real-world solutions.  
-I enjoy building scalable web applications, solving problems, and learning new technologies.  
-Currently focused on **Java, Spring Boot, React.js** and building impactful projects.
-
-- 🌱 **<font color="#ff69b4">I'm currently learning:</font>** Docker, System Design, AWS
-- 💬 **<font color="#ff69b4">Ask me about:</font>** Java, Spring Boot, React, SQL, Git
-- 📫 **<font color="#ff69b4">How to reach me:</font>** [jainbhumika54@gmail.com](mailto:jainbhumika54@gmail.com)
-- ⚡ **<font color="#ff69b4">Fun fact:</font>** I love coffee ☕ and late-night coding 🌙
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2" width="100%" />
-</p>
+I'm a passionate **Full Stack Developer** who loves to build user-friendly, efficient, and scalable web applications. I enjoy working with **Java, Spring Boot**, and **React** to create seamless digital experiences. I'm always learning, exploring new technologies, and striving to improve every day.
 
 ---
 
