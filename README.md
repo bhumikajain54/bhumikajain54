@@ -67,10 +67,6 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikajain54&theme=light&hide_border=true" alt="GitHub Streak Stats" width="95%" />
-</p>
-
 ---
 
 ### 📌 Pinned & Popular Repositories
