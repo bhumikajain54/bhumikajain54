@@ -37,7 +37,7 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhumikajain54/bhumikajain54/main/coding-setup.gif" alt="Pixel Art Workstation" width="100%" onerror="this.onerror=null;this.src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif'"/>
+  <img src="./s.png" alt="Keep Coding - Pixel Art Workstation" width="100%"/>
 </p>
 
 ---
