@@ -42,17 +42,30 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhumikajain54&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="25%" align="left">
+      <p>🌸 <b>Total Stars</b></p>
+      <h2 align="left">88</h2>
+    </td>
+    <td width="25%" align="left">
+      <p>🍴 <b>Total Forks</b></p>
+      <h2 align="left">31</h2>
+    </td>
+    <td width="25%" align="left">
+      <p>📦 <b>Repositories</b></p>
+      <h2 align="left">24</h2>
+    </td>
+    <td width="25%" align="left">
+      <p>👁️ <b>Profile Views</b></p>
+      <h2 align="left">1.2k+</h2>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositories-25+-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Total_Stars-78+-ff4081?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Total_Forks-30+-ff1493?style=for-the-badge&logo=github&logoColor=white" alt="Total Forks" />
-</p>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikajain54&theme=light&hide_border=true" alt="GitHub Streak Stats" width="95%" />
