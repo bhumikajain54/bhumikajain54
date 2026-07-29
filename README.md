@@ -46,21 +46,21 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 
 <table width="100%">
   <tr>
-    <td width="25%" align="left">
+    <td width="25%" align="center" valign="top">
       <p>🌸 <b>Total Stars</b></p>
-      <h2 align="left">88</h2>
+      <h2>⭐ 88+</h2>
     </td>
-    <td width="25%" align="left">
+    <td width="25%" align="center" valign="top">
       <p>🍴 <b>Total Forks</b></p>
-      <h2 align="left">31</h2>
+      <h2>🍴 31+</h2>
     </td>
-    <td width="25%" align="left">
+    <td width="25%" align="center" valign="top">
       <p>📦 <b>Repositories</b></p>
-      <h2 align="left">24</h2>
+      <h2>📦 25+</h2>
     </td>
-    <td width="25%" align="left">
+    <td width="25%" align="center" valign="top">
       <p>👁️ <b>Profile Views</b></p>
-      <h2 align="left">1.2k+</h2>
+      <h2><img src="https://komarev.com/ghpvc/?username=bhumikajain54&color=ff69b4&style=flat-square&label=" alt="Profile Views" /></h2>
     </td>
   </tr>
 </table>
