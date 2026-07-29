@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./profile.jpg" alt="Bhumika Jain" width="130" height="130" style="border-radius: 50%; object-fit: cover;" />
-</p>
-
 <h1 align="center">Hi there 👋 , I'm Bhumika Jain ✨</h1>
 <p align="center">
   🎀
@@ -45,39 +41,64 @@ Currently focused on **Java, Spring Boot, React.js**, and building impactful pro
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumikajain54&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" alt="Bhumika's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhumikajain54&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Stars-88+-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Total_Forks-31+-ff1493?style=for-the-badge&logo=github&logoColor=white" alt="Total Forks" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Repositories-24+-e91e63?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikajain54&theme=rose_pine&hide_border=true" alt="GitHub Streak Stats" width="98%" />
+</p>
 
 ---
 
 ### 📌 Pinned Repositories
 
-<div align="center">
-  <a href="https://github.com/bhumikajain54/EmployeeManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=EmployeeManagementSystem&theme=rose_pine" alt="EmployeeManagementSystem" />
-  </a>
-  <a href="https://github.com/bhumikajain54/sanitaryware">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=sanitaryware&theme=rose_pine" alt="sanitaryware" />
-  </a>
-  <br/>
-  <a href="https://github.com/bhumikajain54/JobSahi-Admin-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=JobSahi-Admin-Dashboard&theme=rose_pine" alt="JobSahi-Admin-Dashboard" />
-  </a>
-  <a href="https://github.com/bhumikajain54/MIS-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=MIS-Project&theme=rose_pine" alt="MIS-Project" />
-  </a>
-  <br/>
-  <a href="https://github.com/bhumikajain54/Bhumika-Jain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Bhumika-Jain&theme=rose_pine" alt="Bhumika-Jain" />
-  </a>
-  <a href="https://github.com/bhumikajain54/Brightorial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Brightorial&theme=rose_pine" alt="Brightorial" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/bhumikajain54/EmployeeManagementSystem">📦 EmployeeManagementSystem</a></h4>
+      <p><i>Manage employees, attendance, roles, and leave requests efficiently.</i></p>
+      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/bhumikajain54/sanitaryware">📦 sanitaryware</a></h4>
+      <p><i>E-commerce platform for sanitaryware products with secure checkout.</i></p>
+      <p><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/bhumikajain54/JobSahi-Admin-Dashboard">📦 JobSahi-Admin-Dashboard</a></h4>
+      <p><i>Admin dashboard for job portal with candidate tracking & analytics.</i></p>
+      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/bhumikajain54/MIS-Project">📦 MIS-Project</a></h4>
+      <p><i>Management Information System for insurance policy tracking & invoicing.</i></p>
+      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/bhumikajain54/Bhumika-Jain">📦 Bhumika-Jain</a></h4>
+      <p><i>Modern dark-themed developer portfolio website.</i></p>
+      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/bhumikajain54/Brightorial">📦 Brightorial</a></h4>
+      <p><i>Educational web platform for interactive tutorials & learning.</i></p>
+      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
