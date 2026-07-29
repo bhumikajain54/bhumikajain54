@@ -1,24 +1,27 @@
-<h1 align="center">Hi there 👋, I'm <span style="color: #e91e63;">Bhumika Jain</span> ✨</h1>
+<h1 align="center">Hi there 👋 , I'm <font color="#ff69b4">Bhumika Jain</font> ✨</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Java & Spring Boot Enthusiast | Building Scalable Web Applications 💗</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhumikajain54&color=e91e63&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  🎀
 </p>
 
----
+### 👤 About Me
 
-### 🌸 About Me
+I'm a **Full Stack Developer** who loves turning ideas into real-world solutions.  
+I enjoy building scalable web applications, solving problems, and learning new technologies.  
+Currently focused on **Java, Spring Boot, React.js** and building impactful projects.
 
-I'm a passionate **Full Stack Developer** who loves turning ideas into real-world digital solutions. I enjoy building scalable web applications, solving complex problems, and exploring modern cloud and system design architectures.
+- 🌱 **<font color="#ff69b4">I'm currently learning:</font>** Docker, System Design, AWS
+- 💬 **<font color="#ff69b4">Ask me about:</font>** Java, Spring Boot, React, SQL, Git
+- 📫 **<font color="#ff69b4">How to reach me:</font>** [jainbhumika54@gmail.com](mailto:jainbhumika54@gmail.com)
+- ⚡ **<font color="#ff69b4">Fun fact:</font>** I love coffee ☕ and late-night coding 🌙
 
-- 💻 **Core Focus:** Java, Spring Boot, React.js, MySQL & Web Tech
-- 🚀 **Currently Learning:** System Design & AWS
-- 🎯 **Goals:** Contribute to impactful Open Source projects & build scalable products
-- 📫 **Reach Me:** [jainbhumika54@gmail.com](mailto:jainbhumika54@gmail.com)
-- ⚡ **Fun Fact:** I love coffee ☕ & late-night coding sessions 🌙
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2" width="100%" />
+</p>
 
 ---
 
@@ -44,9 +47,13 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into real-worl
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-25+-e91e63?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=bhumikajain54&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-25+-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Total_Stars-78+-ff4081?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Total_Forks-30+-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Total Forks" />
+  <img src="https://img.shields.io/badge/Total_Forks-30+-ff1493?style=for-the-badge&logo=github&logoColor=white" alt="Total Forks" />
 </p>
 
 <p align="center">
