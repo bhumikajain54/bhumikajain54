@@ -102,14 +102,6 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 </table>
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumikajain54&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=e6edf3&bg_color=0d1117&border_color=30363d&border_radius=10" alt="GitHub Dynamic Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&title_color=ff69b4&text_color=e6edf3&bg_color=0d1117&border_color=30363d&border_radius=10" alt="Dynamic Top Languages" width="48%" />
-</p>
-
-<br/>
-
 ---
 
 ### 📌 Pinned & Popular Repositories
