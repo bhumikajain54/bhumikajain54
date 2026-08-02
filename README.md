@@ -44,11 +44,6 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumikajain54&custom_title=Bhumika%20Jain&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=e6edf3&bg_color=0d1117&border_color=30363d&border_radius=10" alt="Bhumika Jain GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&title_color=ff69b4&text_color=e6edf3&bg_color=0d1117&border_color=30363d&border_radius=10" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikajain54&theme=rose_pine&hide_border=true" alt="GitHub Streak Stats" width="98%" />
 </p>
 
