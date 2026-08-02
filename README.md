@@ -43,65 +43,15 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
 
 ### 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <!-- LEFT: Live Dynamic GitHub Stats Table -->
-    <td width="50%" valign="middle">
-      <h3>🏆 <font color="#ff69b4">GitHub Stats</font></h3>
-      <h4><font color="#e6edf3">Bhumika Jain</font></h4>
-      <br/>
-      <p>⭐ &nbsp; <img src="https://img.shields.io/github/stars/bhumikajain54?style=flat-square&color=f89820&label=Total%20Stars" alt="Total Stars" /></p>
-      <p>📂 &nbsp; <img src="https://img.shields.io/github/followers/bhumikajain54?style=flat-square&color=f7df1e&label=Repositories" alt="Repositories" /></p>
-      <p>👥 &nbsp; <img src="https://img.shields.io/github/followers/bhumikajain54?style=flat-square&color=e34c26&label=Followers" alt="Followers" /></p>
-      <p>🚀 &nbsp; <font color="#9b59b6"><b>4+</b></font> &nbsp; Featured Projects</p>
-    </td>
-    <!-- RIGHT: SVG Donut Chart (Top Languages) -->
-    <td width="50%" valign="middle" align="center">
-      <svg width="280" height="210" viewBox="0 0 280 210" xmlns="http://www.w3.org/2000/svg">
-        <rect width="280" height="210" rx="14" fill="#0d1117"/>
-        <text x="140" y="24" text-anchor="middle" fill="#ff69b4" font-size="13" font-weight="bold" font-family="monospace">Top Languages</text>
-        <!-- Donut: cx=78, cy=115, r=55 | circumference=345.58 -->
-        <!-- Java 45.2% => 156.2 -->
-        <circle cx="78" cy="115" r="55" fill="none" stroke="#b07219" stroke-width="24"
-          stroke-dasharray="156.2 345.58" stroke-dashoffset="0"
-          transform="rotate(-90 78 115)"/>
-        <!-- JavaScript 22.4% => 77.4 | offset=-156.2 -->
-        <circle cx="78" cy="115" r="55" fill="none" stroke="#f1e05a" stroke-width="24"
-          stroke-dasharray="77.4 345.58" stroke-dashoffset="-156.2"
-          transform="rotate(-90 78 115)"/>
-        <!-- HTML 15.3% => 52.9 | offset=-233.6 -->
-        <circle cx="78" cy="115" r="55" fill="none" stroke="#e34c26" stroke-width="24"
-          stroke-dasharray="52.9 345.58" stroke-dashoffset="-233.6"
-          transform="rotate(-90 78 115)"/>
-        <!-- CSS 10.8% => 37.3 | offset=-286.5 -->
-        <circle cx="78" cy="115" r="55" fill="none" stroke="#563d7c" stroke-width="24"
-          stroke-dasharray="37.3 345.58" stroke-dashoffset="-286.5"
-          transform="rotate(-90 78 115)"/>
-        <!-- Other 6.3% => 21.8 | offset=-323.8 -->
-        <circle cx="78" cy="115" r="55" fill="none" stroke="#8b949e" stroke-width="24"
-          stroke-dasharray="21.8 345.58" stroke-dashoffset="-323.8"
-          transform="rotate(-90 78 115)"/>
-        <!-- Donut hole -->
-        <circle cx="78" cy="115" r="31" fill="#0d1117"/>
-        <text x="78" y="112" text-anchor="middle" fill="#ff69b4" font-size="9" font-family="monospace" font-weight="bold">Top</text>
-        <text x="78" y="123" text-anchor="middle" fill="#ff69b4" font-size="9" font-family="monospace" font-weight="bold">Lang</text>
-        <!-- Legend -->
-        <rect x="157" y="48"  width="11" height="11" rx="3" fill="#b07219"/>
-        <text x="173" y="58" fill="#e6edf3" font-size="11" font-family="monospace">Java <tspan fill="#b07219" font-weight="bold">45.2%</tspan></text>
-        <rect x="157" y="70"  width="11" height="11" rx="3" fill="#f1e05a"/>
-        <text x="173" y="80" fill="#e6edf3" font-size="11" font-family="monospace">JS <tspan fill="#f1e05a" font-weight="bold">22.4%</tspan></text>
-        <rect x="157" y="92"  width="11" height="11" rx="3" fill="#e34c26"/>
-        <text x="173" y="102" fill="#e6edf3" font-size="11" font-family="monospace">HTML <tspan fill="#e34c26" font-weight="bold">15.3%</tspan></text>
-        <rect x="157" y="114" width="11" height="11" rx="3" fill="#563d7c"/>
-        <text x="173" y="124" fill="#e6edf3" font-size="11" font-family="monospace">CSS <tspan fill="#563d7c" font-weight="bold">10.8%</tspan></text>
-        <rect x="157" y="136" width="11" height="11" rx="3" fill="#8b949e"/>
-        <text x="173" y="146" fill="#e6edf3" font-size="11" font-family="monospace">Other <tspan fill="#8b949e" font-weight="bold">6.3%</tspan></text>
-      </svg>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumikajain54&custom_title=Bhumika%20Jain&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=e6edf3&bg_color=0d1117&border_color=30363d&border_radius=10" alt="Bhumika Jain GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&title_color=ff69b4&text_color=e6edf3&bg_color=0d1117&border_color=30363d&border_radius=10" alt="Top Languages" width="49%" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikajain54&theme=rose_pine&hide_border=true" alt="GitHub Streak Stats" width="98%" />
+</p>
+
 
 ### 📌 Pinned & Popular Repositories
 
