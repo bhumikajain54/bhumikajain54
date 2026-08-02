@@ -39,14 +39,6 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
   <img src="./s.png" alt="Keep Coding - Pixel Art Workstation" width="100%"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumikajain54&theme=rose_pine&hide_border=true" alt="GitHub Streak Stats" width="98%" />
-</p>
-
 
 ### 📌 Pinned & Popular Repositories
 
