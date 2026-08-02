@@ -130,7 +130,3 @@ I'm a passionate **Full Stack Developer** who loves to build user-friendly, effi
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-<p align="center">
-  <i>"Code. Build. Impact." 💜</i>
-</p>
