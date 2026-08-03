@@ -53,25 +53,10 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 ---
 
-### 📅 GitHub Contribution Grid & Snake
-
+### 📊 GitHub Stats
 <div align="center">
 
-![Bhumika's Contribution Grid](https://ghchart.rshah.org/F5A9D0/bhumikajain54)
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/bhumikajain54/bhumikajain54/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-<br/>
-
-### 🧊 Year-Wise 3D Contribution Graph (2022 - 2026)
-
-<div align="center">
-
-<img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="Bhumika 3D Contribution Graph"/>
+[![Bhumika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&bg_color=0D1117&color=F5A9D0&line=F5A9D0&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
