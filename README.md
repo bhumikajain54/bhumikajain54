@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HEY%20👋%20WELCOME%20TO%20MY%20PROFILE%20💻✨&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bhumika%20Jain%20|%20Developer%20|%20Designer%20|%20Dreamer&descAlignY=55&descSize=16"/>
 
@@ -51,16 +51,6 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 <div align="center">
 
 <img width="100%" src="./s.png" alt="GitHub Header Banner"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhumikajain54&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9D0&text_color=ffffff"/>
 
 </div>
 
