@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HEY%20👋%20WELCOME%20TO%20MY%20PROFILE%20💻✨&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bhumika%20Jain%20|%20Developer%20|%20Designer%20|%20Dreamer&descAlignY=55&descSize=16"/>
 
@@ -53,10 +53,11 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Grid Snake
+
 <div align="center">
 
-[![Bhumika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&bg_color=0D1117&color=F5A9D0&line=F5A9D0&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://raw.githubusercontent.com/bhumikajain54/bhumikajain54/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
