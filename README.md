@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HEY%20👋%20WELCOME%20TO%20MY%20PROFILE%20💻✨&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bhumika%20Jain%20|%20Developer%20|%20Designer%20|%20Dreamer&descAlignY=55&descSize=16"/>
 
@@ -123,7 +123,7 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhumikajain54&label=Profile%20views&color=F5A9D0&style=for-the-badge)
+![Repository Views](https://komarev.com/ghpvc/?username=bhumikajain54&label=Repository%20views&color=F5A9D0&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
