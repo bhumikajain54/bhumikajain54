@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HEY%20👋%20WELCOME%20TO%20MY%20PROFILE%20💻✨&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bhumika%20Jain%20|%20Developer%20|%20Designer%20|%20Dreamer&descAlignY=55&descSize=16"/>
 
@@ -106,16 +106,6 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 ![Followers](https://img.shields.io/github/followers/bhumikajain54?label=Followers&style=for-the-badge&color=F5A9D0&labelColor=0D1117)
 ![Stars](https://img.shields.io/github/stars/bhumikajain54?label=Total%20Stars&style=for-the-badge&color=F5A9D0&labelColor=0D1117)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/bhumikajain54/bhumikajain54/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
