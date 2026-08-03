@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="360" src="./s.png"/>
+<img align="right" alt="Coding Girl" width="360" src="./banner.png"/>
 
 ### 👩‍💻 Who am I?
 
