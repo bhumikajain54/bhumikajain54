@@ -43,11 +43,6 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
 
 <img width="100%" src="./s.png" alt="GitHub Header Banner"/>
@@ -56,6 +51,9 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 <br/>
 
+---
+
+### 📊 GitHub Stats
 <div align="center">
 
 [![Bhumika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&bg_color=0D1117&color=F5A9D0&line=F5A9D0&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
