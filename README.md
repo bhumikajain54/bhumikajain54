@@ -104,8 +104,8 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/bhumikajain54?label=Followers&style=for-the-badge&color=F5A9D0&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/bhumikajain54?label=Total%20Stars&style=for-the-badge&color=F5A9D0&labelColor=0D1117)
+[![Followers](https://img.shields.io/badge/Followers-bhumikajain54-F5A9D0?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/bhumikajain54?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-bhumikajain54-F5A9D0?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/bhumikajain54?tab=repositories)
 
 </div>
 
