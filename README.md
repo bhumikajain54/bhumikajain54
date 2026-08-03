@@ -62,20 +62,55 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 ---
 
-### 🌟 Popular Repositories
+### 📌 Pinned & Popular Repositories
 
-<div align="center">
-
-[![Web Designing Project](https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Web_Designing_Newspaper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff)](https://github.com/bhumikajain54/Web_Designing_Newspaper)
-[![Web Designing Projects](https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Web_Designing_Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff)](https://github.com/bhumikajain54/Web_Designing_Project)
-
-[![Style Design Program](https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Style_Design_Programs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff)](https://github.com/bhumikajain54/Style_Design_Programs)
-[![Java Programs](https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Java_Programs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff)](https://github.com/bhumikajain54/Java_Programs)
-
-[![E-Commerce Application](https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Electronics_E-Commerce_Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff)](https://github.com/bhumikajain54/Electronics_E-Commerce_Application)
-[![Tic Tac Toe Game](https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Tic_Tac_Toe_Game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff)](https://github.com/bhumikajain54/Tic_Tac_Toe_Game)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 Employee Management System</h4>
+      <p>Full-stack app to manage employees, departments, attendance &amp; leaves.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 Sanitaryware Shop</h4>
+      <p>Full-stack e-commerce platform with cart &amp; checkout.</p>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 JobSahi Admin Dashboard</h4>
+      <p>Admin dashboard for job portal with candidate tracking.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 Sales Force Automation</h4>
+      <p>Sales pipeline automation with analytics &amp; reporting.</p>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧩 Developer Portfolio</h4>
+      <p>Personal portfolio built with React &amp; Tailwind CSS.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 MRJ Architects</h4>
+      <p>Architect firm website with project showcase.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
