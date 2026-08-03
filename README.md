@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <!-- Top Simulated GitHub Navigation Bar -->
   <table width="100%" style="background-color: #0D1117; border-collapse: collapse; border: 1px solid #30363D; border-radius: 6px;">
     <tr>
