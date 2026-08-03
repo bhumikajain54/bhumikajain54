@@ -1,32 +1,32 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HEY%20👋%20WELCOME%20TO%20MY%20PROFILE%20💻✨&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bhumika%20Jain%20|%20Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=55&descSize=16"/>
 
 <br/>
 
-<!-- Profile Image from Image 1 -->
+<!-- Profile Image -->
 <img src="./profile.jpg" alt="Bhumika Jain" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #F5A9D0; margin-top: 10px;"/>
 
 ### 🌸 **Bhumika Jain**
 *Full Stack Developer | Java & React Enthusiast*
 
+---
+
 </div>
 
----
+### 👩‍💻 Who am I?
 
-### 👩‍💻 Who am I ?
-
-- 🌸 **Full Stack Developer** passionate about crafting exceptional digital experiences.
-- 🎓 Proficient in **React, JavaScript, MySQL, MongoDB, Java, Spring Boot, Bootstrap, HTML5, and CSS3**.
-- 🌱 Currently diving deeper into **Spring Boot** and **React** to enhance my skill set.
-- 💌 You can reach me by: **bhumikajain54@gmail.com**
-- 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bhumika-jain54/)**
+- 🌸 **Full Stack Developer** passionate about crafting elegant and responsive digital experiences.
+- 🎓 Skilled in **Java, Spring Boot, React, JavaScript, MySQL, MongoDB, HTML5**, and **CSS3**.
+- 🌱 Currently expanding my expertise in **Spring Boot Microservices** and **Advanced React**.
+- 💌 Contact Email: **bhumikajain54@gmail.com**
+- 🤝 LinkedIn: **[linkedin.com/in/bhumika-jain54](https://www.linkedin.com/in/bhumika-jain54/)**
 
 ---
 
-### 📑 About Me
+### 🌸 About Me
 
-Skilled in front-end and back-end technologies, including **HTML, CSS, React, JavaScript, Java, Spring Boot, MySQL**, and **Bootstrap**. Passionate about keeping up with emerging technologies and enhancing coding skills through continuous learning. Seeking an **entry-level software engineer** role in a technology-driven firm to apply and grow my skills in full stack development.
+I am a dedicated **Full Stack Developer** with experience in building web applications using modern front-end and back-end frameworks. I enjoy solving complex problems, writing clean code, and continuously learning new tools and methodologies. Seeking an **Software Engineer / Full Stack Developer** role in a technology-driven organization to contribute and grow.
 
 ---
 
@@ -53,52 +53,29 @@ Skilled in front-end and back-end technologies, including **HTML, CSS, React, Ja
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhumikajain54&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A9D0&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=bhumikajain54&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikajain54&hide_border=true&background=0D1117&ring=F5A9D0&fire=F5A9D0&currStreakLabel=F5A9D0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhumikajain54&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🌟 Popular Repositories
+### 🌟 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/bhumikajain54/Electronics_E-Commerce_Application">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Electronics_E-Commerce_Application&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff" />
-</a>
-<a href="https://github.com/bhumikajain54/Web_Designing_Newspaper">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Web_Designing_Newspaper&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff" />
-</a>
-
-<br/>
-
-<a href="https://github.com/bhumikajain54/Tic_Tac_Toe_Game">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Tic_Tac_Toe_Game&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff" />
-</a>
-<a href="https://github.com/bhumikajain54/Java_Programs">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Java_Programs&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff" />
-</a>
-
-<br/>
-
-<a href="https://github.com/bhumikajain54/Web_Designing_Project">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Web_Designing_Project&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff" />
-</a>
-<a href="https://github.com/bhumikajain54/Style_Design_Programs">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhumikajain54&repo=Style_Design_Programs&hide_border=true&bg_color=0D1117&title_color=F5A9D0&icon_color=F5A9D0&text_color=ffffff" />
-</a>
-
-</div>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🛒 **Electronics E-Commerce Application** | Full-featured console/web store for purchasing electronics, user authentication, and product catalog. | Java, MySQL |
+| 📰 **Web Designing Newspaper** | Responsive online newspaper web application with modern layout. | HTML, CSS, JavaScript |
+| 🎮 **Tic Tac Toe Game** | Interactive 2-player game with clean UI and game logic. | HTML, CSS, JavaScript |
+| 💻 **Java Programs & Algorithms** | Comprehensive collection of core Java applications and algorithms. | Java |
 
 ---
 
@@ -109,7 +86,6 @@ Skilled in front-end and back-end technologies, including **HTML, CSS, React, Ja
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-jain54/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhumikajain54)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikajain54@gmail.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikajain54@gmail.com)
 
 </div>
 
@@ -117,9 +93,6 @@ Skilled in front-end and back-end technologies, including **HTML, CSS, React, Ja
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhumikajain54&label=Profile%20Views&color=F5A9D0&style=for-the-badge)
-
-<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=bhumikajain54&label=Profile%20Views&color=F5A9D0&style=for-the-badge)
 
 <br/>
