@@ -55,11 +55,18 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhumikajain54&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhumikajain54&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=bhumikajain54&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhumikajain54&theme=tokyonight&hide_border=true" />
+</p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&theme=tokyo-night" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -114,7 +121,7 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 </table>
 
 ---
-🌱 Currently Learning
+### 🌱 Currently Learning
 
 <p align="left">
 
@@ -132,7 +139,7 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 </p>
 
-🤝 Open To
+### 🤝 Open To
 
 <p align="left">
 
