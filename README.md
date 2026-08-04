@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF758C,50:FBC2EB,100:A18CD1&height=200&section=header&text=HEY%20👋%20WELCOME%20TO%20MY%20PROFILE%20✨🌸&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Bhumika%20Jain%20%7C%20Full%20Stack%20Developer%20%7C%20Designer%20%7C%20Dreamer&descAlignY=60&descSize=15"/>
 
@@ -60,9 +60,9 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=bhumikajain54&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&theme=tokyo-night" />
