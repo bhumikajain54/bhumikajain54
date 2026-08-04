@@ -54,11 +54,12 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
 
-[![Bhumika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&bg_color=0D1117&color=F5A9D0&line=F5A9D0&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center"> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhumikajain54&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
-</div>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=bhumikajain54&theme=tokyonight&hide_border=true" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&theme=tokyo-night" /> </p>
 
 ---
 
@@ -113,19 +114,40 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 </table>
 
 ---
+🌱 Currently Learning
 
-### 🤝 Let's Connect
+<p align="left">
 
-<div align="center">
+<img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-jain54/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhumikajain54)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumikajain54@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/Spring_Boot_Advanced-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/REST_API_Design-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+</p>
+
+🤝 Open To
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Java_Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot_Developer-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Full_Stack_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Backend_Developer-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software_Engineer-673AB7?style=for-the-badge"/>
+
+</p>
+--------
 
 ### 👥 GitHub Community
 
@@ -138,10 +160,14 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 ---
 
-<div align="center">
+### 📫 Connect With Me
 
-![Repository Views](https://komarev.com/ghpvc/?username=bhumikajain54&label=Repository%20views&color=F5A9D0&style=for-the-badge)
+📧 Email: jainbhumika54@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A18CD1,50:FBC2EB,100:FF758C&height=120&section=footer"/>
+💼 LinkedIn: https://www.linkedin.com/in/jain-bhumika
 
-</div>
+🌐 Portfolio: https://bhumika-jain.vercel.app/
+
+💻 GitHub: https://github.com/bhumikajain54
+
+📍 Location: Balaghat, Madhya Pradesh, India
