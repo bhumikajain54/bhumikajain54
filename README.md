@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF758C,50:FBC2EB,100:A18CD1&height=200&section=header&text=HEY%20👋%20WELCOME%20TO%20MY%20PROFILE%20✨🌸&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Bhumika%20Jain%20%7C%20Full%20Stack%20Developer%20%7C%20Designer%20%7C%20Dreamer&descAlignY=60&descSize=15"/>
 
@@ -75,14 +75,14 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/bhumikajain54/EmployeeManagementSystem">🧩 Employee Management System</a></h4>
+      <h4>🧩 Employee Management System</h4>
       <p>Full-stack app to manage employees, departments, attendance &amp; leaves.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/bhumikajain54/sanitaryware">🧩 Sanitaryware Shop</a></h4>
+      <h4>🧩 Sanitaryware Shop</h4>
       <p>Full-stack e-commerce platform with cart &amp; checkout.</p>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -91,14 +91,14 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/bhumikajain54/JobSahi-Admin-Dashboard">🧩 JobSahi Admin Dashboard</a></h4>
+      <h4>🧩 JobSahi Admin Dashboard</h4>
       <p>Admin dashboard for job portal with candidate tracking.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/bhumikajain54/Sales-force-automation">🧩 Sales Force Automation</a></h4>
+      <h4>🧩 Sales Force Automation</h4>
       <p>Sales pipeline automation with analytics &amp; reporting.</p>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -106,13 +106,13 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/bhumikajain54/Bhumika-Jain">🧩 Developer Portfolio</a></h4>
+      <h4>🧩 Developer Portfolio</h4>
       <p>Personal portfolio built with React &amp; Tailwind CSS.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/bhumikajain54/MRJ-Architects">🧩 MRJ Architects</a></h4>
+      <h4>🧩 MRJ Architects</h4>
       <p>Architect firm website with project showcase.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
