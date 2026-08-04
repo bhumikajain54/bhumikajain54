@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF758C,50:FBC2EB,100:A18CD1&height=200&section=header&text=HEY%20👋%20WELCOME%20TO%20MY%20PROFILE%20✨🌸&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Bhumika%20Jain%20%7C%20Full%20Stack%20Developer%20%7C%20Designer%20%7C%20Dreamer&descAlignY=60&descSize=15"/>
 
@@ -56,16 +56,16 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhumikajain54&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhumikajain54&show_icons=true&title_color=F5A9D0&text_color=ffffff&icon_color=F5A9D0&bg_color=0D1117&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhumikajain54&layout=compact&title_color=F5A9D0&text_color=ffffff&icon_color=F5A9D0&bg_color=0D1117&hide_border=true" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhumikajain54&theme=tokyonight&hide_border=true" />
-</p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhumikajain54&background=0D1117&border=F5A9D0&stroke=F5A9D0&ring=F5A9D0&fire=F5A9D0&currStreakNum=F5A9D0&sideNums=F5A9D0&sideTitle=F5A9D0&currStreakLabel=F5A9D0&dates=ffffff&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&bg_color=0D1117&color=F5A9D0&line=F5A9D0&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -120,7 +120,6 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
   </tr>
 </table>
 
----
 ### 🌱 Currently Learning
 
 <p align="left">
@@ -154,7 +153,8 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 <img src="https://img.shields.io/badge/Software_Engineer-673AB7?style=for-the-badge"/>
 
 </p>
---------
+
+---
 
 ### 👥 GitHub Community
 
