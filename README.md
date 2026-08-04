@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF758C,50:FBC2EB,100:A18CD1&height=200&section=header&text=HEY%20👋%20WELCOME%20TO%20MY%20PROFILE%20✨🌸&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Bhumika%20Jain%20%7C%20Full%20Stack%20Developer%20%7C%20Designer%20%7C%20Dreamer&descAlignY=60&descSize=15"/>
 
@@ -123,35 +123,22 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 ### 🌱 Currently Learning
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Spring_Boot_Advanced-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/REST_API_Design-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws"/>
-
+  <img src="https://img.shields.io/badge/System_Design-00599C?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot_Advanced-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/REST_API_Design-0A66C2?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
 </p>
 
 ### 🤝 Open To
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Java_Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring_Boot_Developer-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Full_Stack_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Backend_Developer-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Software_Engineer-673AB7?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Java_Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot_Developer-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Backend_Developer-0A66C2?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software_Engineer-673AB7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
