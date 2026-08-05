@@ -65,7 +65,7 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikajain54&bg_color=0D1117&color=F5A9D0&line=F5A9D0&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/F5A9D0/bhumikajain54" alt="Bhumika's Github Contribution Chart" />
 </p>
 
 ---
