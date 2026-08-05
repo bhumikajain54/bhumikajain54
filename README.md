@@ -13,9 +13,9 @@
 - 🌸 **Full Stack Developer** passionate about crafting beautiful digital experiences
 - 🎓 Skilled in **React, JavaScript, MySQL, MongoDB, Java, Spring Boot, Bootstrap, HTML5** and **CSS3**
 - 🌱 Currently growing my skills through **Spring Boot** and **React** to enhance my expertise
-- 🔗 Check out my Portfolio: **[My Portfolio](#)**
-- 💌 You can reach me at: **bhumikajain54@gmail.com**
-- 🤝 Connect with me on **[LinkedIn](#)**
+- 🔗 **Portfolio:** <img src="https://img.shields.io/badge/Portfolio-bhumika--jain.vercel.app-FF758C?style=flat-square&logo=vercel&logoColor=white" valign="middle"/>
+- 💌 **Email:** <img src="https://img.shields.io/badge/Email-jainbhumika54%40gmail.com-A18CD1?style=flat-square&logo=gmail&logoColor=white" valign="middle"/>
+- 🤝 **LinkedIn:** <img src="https://img.shields.io/badge/LinkedIn-jain--bhumika-F5A9D0?style=flat-square&logo=linkedin&logoColor=white" valign="middle"/>
 
 ---
 
@@ -147,8 +147,8 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 <div align="center">
 
-[![Followers](https://img.shields.io/badge/Followers-bhumikajain54-F5A9D0?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/bhumikajain54?tab=followers)
-[![Repositories](https://img.shields.io/badge/Repositories-bhumikajain54-F5A9D0?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/bhumikajain54?tab=repositories)
+<img src="https://img.shields.io/badge/Followers-bhumikajain54-F5A9D0?style=for-the-badge&logo=github&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Repositories-bhumikajain54-F5A9D0?style=for-the-badge&logo=github&labelColor=0D1117"/>
 
 </div>
 
@@ -156,15 +156,13 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 
 ### 📫 Connect With Me
 
-📧 Email: jainbhumika54@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/jain-bhumika
-
-🌐 Portfolio: https://bhumika-jain.vercel.app/
-
-💻 GitHub: https://github.com/bhumikajain54
-
-📍 Location: Balaghat, Madhya Pradesh, India
+<p align="left">
+  <img src="https://img.shields.io/badge/Email-jainbhumika54%40gmail.com-FF758C?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-jain--bhumika-A18CD1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-bhumika--jain.vercel.app-F5A9D0?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-bhumikajain54-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Balaghat%2C%20Madhya%20Pradesh%2C%20India-E27396?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
 ---
 
