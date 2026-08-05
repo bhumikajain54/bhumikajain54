@@ -165,3 +165,19 @@ Skilled in front-end and back-end technologies including **HTML, CSS, React.js, 
 💻 GitHub: https://github.com/bhumikajain54
 
 📍 Location: Balaghat, Madhya Pradesh, India
+
+---
+
+<div align="center">
+
+### 🌸 Thanks for visiting my profile! ✨
+
+I'm always open to collaborating on exciting projects, discussing backend architecture, or exploring new opportunities.
+
+⭐ **If you find my work interesting, consider starring my repositories!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A18CD1,50:FBC2EB,100:FF758C&height=120&section=footer"/>
+
+</div>
